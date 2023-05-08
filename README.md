@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Dylan>
+<h1 align="center">Hi there 👋, I'm Dylan</h1>
 <h3 align="center">An IT Recruiter</h3>
 
 - 🌱 Passionate about discovering new tech talents
